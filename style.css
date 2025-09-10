@@ -12,7 +12,7 @@ body {
     justify-content: center;
     align-items: center;
     min-height: 100vh;
-    background: url(bckgrndimg2.webp) no-repeat center center/cover;
+    background: url(img.webp) no-repeat center center/cover;
     font-family: "Source Code Pro", monospace;
 }
 .container{
